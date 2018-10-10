@@ -34,3 +34,5 @@ python characteristics.py
 ```bash
 python matching.py
 ```
+
+##### The number of N: N is less than 100 thousand, Top1 can almost hit directly.
