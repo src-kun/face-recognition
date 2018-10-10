@@ -27,7 +27,7 @@ yum install python2-scikit-image.x86_64
 python characteristics.py
 ```
 
-The faceFeatureLib folder is generated, which includes: names. txt and features. txt, which refer to the label of the face and the corresponding face feature library respectively.
+	The faceFeatureLib folder is generated, which includes: names. txt and features. txt, which refer to the label of the face and the corresponding face feature library respectively.
 
 ### Matching face
 
