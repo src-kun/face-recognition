@@ -35,4 +35,7 @@ python characteristics.py
 python matching.py
 ```
 
+## Model test description
+
 ##### The number of N: N is less than 100 thousand, Top1 can almost hit directly.
+##### Face test picture requirements: face angle is less than 20 degrees, face resolution is greater than 110*110
