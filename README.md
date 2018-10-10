@@ -8,9 +8,9 @@
 	* Python 2.7
 	* CentOS 7
 
-### Installation Options:
+## Installation Options:
 
-#### Installing
+### Installing
 
 ```bash
 git clone https://github.com/src-kun/dlib
