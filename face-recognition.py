@@ -81,9 +81,9 @@ def match(image_path, features, names_lib, numbers):
 	else:
 		print("Face not found !")
 
-#extract_feature('picture/', "names.txt", 'features.txt')
+extract_feature('picture/', "names.txt", 'features.txt')
 
 feature_lib = loadtxt("features.txt")
 names_lib = read_names_lib("names.txt")
 numbers = len(names_lib)
-print(match('zqc.jpg', feature_lib, names_lib, numbers))
+print(match('you.jpg', feature_lib, names_lib, numbers))
