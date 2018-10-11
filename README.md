@@ -13,6 +13,7 @@
 ### Installing
 
 ```bash
+yum install -y gcc gcc-c++ cmake python-devel
 git clone https://github.com/src-kun/dlib
 cd dlib
 python setup.py install
