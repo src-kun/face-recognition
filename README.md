@@ -18,6 +18,7 @@ git clone https://github.com/src-kun/dlib
 cd dlib
 python setup.py install
 yum install python2-scikit-image.x86_64
+pip install scikit-image
 ```
 
 ## Example
